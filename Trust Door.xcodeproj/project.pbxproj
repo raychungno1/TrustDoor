@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		33BD4683226782C90086FD88 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 33BD4682226782C90086FD88 /* MapKit.framework */; };
 		33C985F0227B1724006171E5 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 33C985EF227B1724006171E5 /* WebKit.framework */; };
+		33D848F12699248D006674F2 /* Default Screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 33D848F02699248D006674F2 /* Default Screen.png */; };
+		33D848F3269924A7006674F2 /* Settings UI.png in Resources */ = {isa = PBXBuildFile; fileRef = 33D848F2269924A7006674F2 /* Settings UI.png */; };
 		33E409952239DE7A000E60CA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E409942239DE7A000E60CA /* AppDelegate.swift */; };
 		33E409972239DE7A000E60CA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E409962239DE7A000E60CA /* ViewController.swift */; };
 		33E4099A2239DE7A000E60CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 33E409982239DE7A000E60CA /* Main.storyboard */; };
@@ -19,6 +21,8 @@
 /* Begin PBXFileReference section */
 		33BD4682226782C90086FD88 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		33C985EF227B1724006171E5 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
+		33D848F02699248D006674F2 /* Default Screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default Screen.png"; sourceTree = "<group>"; };
+		33D848F2269924A7006674F2 /* Settings UI.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Settings UI.png"; sourceTree = "<group>"; };
 		33E409912239DE7A000E60CA /* Trust Door.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Trust Door.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		33E409942239DE7A000E60CA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		33E409962239DE7A000E60CA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -53,6 +57,8 @@
 		33E409882239DE7A000E60CA = {
 			isa = PBXGroup;
 			children = (
+				33D848F02699248D006674F2 /* Default Screen.png */,
+				33D848F2269924A7006674F2 /* Settings UI.png */,
 				33E409932239DE7A000E60CA /* Trust Door */,
 				33E409922239DE7A000E60CA /* Products */,
 				33BD4681226782C90086FD88 /* Frameworks */,
@@ -149,6 +155,8 @@
 			files = (
 				33E4099F2239DE7C000E60CA /* LaunchScreen.storyboard in Resources */,
 				33E4099C2239DE7C000E60CA /* Assets.xcassets in Resources */,
+				33D848F12699248D006674F2 /* Default Screen.png in Resources */,
+				33D848F3269924A7006674F2 /* Settings UI.png in Resources */,
 				33E4099A2239DE7A000E60CA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
