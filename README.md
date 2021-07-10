@@ -10,5 +10,6 @@ As a part of the project, an app was created that could communicate with the pro
 
 ## App UI:
 * Default screen displays state of garage door, last opened/closed time, and 'settings' button
-
+![Default Screen](https://github.com/raychungno1/TrustDoor/blob/master/Default%20Screen.png)
 * Settings UI allows user to set customized geofence location & size
+![Settings UI](https://github.com/raychungno1/TrustDoor/blob/master/Settings%20UI.png)
